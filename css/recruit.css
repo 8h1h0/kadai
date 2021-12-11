@@ -1,0 +1,120 @@
+.page-address {
+    margin-bottom: 0px;
+}
+
+.recruit-all {
+    background: url(../img/bg-geometry.png);
+    padding-top: 50px;
+}
+
+.recruit-title {
+    color: #4b0082;
+    font-size: 50px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+.recruit-title-ja {
+    color: #4b0082;
+    font-size: 25px;
+    text-align: center;
+    margin-top: 0px;
+}
+
+.recruit-txt {
+    text-align: center;
+}
+
+.recruit-sec-img {
+    max-width: 100%;
+    clip-path: polygon(0 20%, 100% 0%, 100% 80%, 0% 100%);
+}
+
+.recruit-sec-img img {
+    width: 100%;
+}
+
+.middle-title {
+    color: #4b0082;
+    font-size: 25px;
+}
+
+
+.recruit-detail {
+    border: solid 2px #bbb;
+    margin-bottom: 100px;
+    background-color: #ffffff;
+}
+.recruit-detail h4 {
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.middle-title {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+.recruit-list {
+    padding: 0px;
+}
+.list-content {
+    display: flex;
+    flex-direction: row;
+}
+.recruit-list .label, .recruit-list .detail {
+    font-size: 1.3rem;
+    text-align: left;
+    border-bottom: solid 2px #ddd;
+    padding: 20px;
+}
+
+.recruit-list .label {
+    width: 29%;
+    margin-left: 40px;
+}
+.recruit-list .detail {
+    width: 69%;
+    margin-right: 40px;
+}
+.detail-content {
+    display: flex;
+    flex-direction: column;
+}
+.recruit-list-txt {
+    list-style: disc;
+}
+
+.button {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button {
+        background: linear-gradient(to right, #800080, #4b0082);
+        color: #ffffff;
+        border: solid 0px;
+        width: 180px;
+        height: 50px;
+        border-radius: 50px;
+}
+.button p {
+    font-size: 10px;
+}
+
+.recruit-bottom {
+    padding-bottom: 100px;
+}
+
+.sec-title {
+    text-align: center;
+}
+
+.recruit-movie {
+    background-color: #bbb;
+    height: 500px;
+}

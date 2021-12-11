@@ -1,0 +1,18 @@
+.detail {
+    display: flex;
+    margin-bottom: 50px;
+}
+.service-img {
+    max-width: 40%;
+}
+.detail-txt {
+    width: 60%;
+    margin-left: 40px;
+}
+.txt-top {
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+.txt {
+    font-size: 1.0rem;
+}

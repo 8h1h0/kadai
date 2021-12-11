@@ -1,0 +1,29 @@
+.contact-us > p {
+    text-align: center;
+}
+.contact-box {
+    background-color: #eee;
+    padding: 100px 100px;
+    margin: 50px 0px;
+}
+.contact-box span {
+    color: purple;
+}
+.contact-tel span {
+    color: #bbb;
+}
+.contact-label {
+    margin-bottom: 0px;
+}
+button {
+    background: linear-gradient(to right, #800080, #4b0082);
+    color: #ffffff;
+    border: solid 0px;
+    width: 180px;
+    height: 50px;
+    border-radius: 50px;
+}
+.button {
+    text-align: center;
+    margin-top: 50px;
+}

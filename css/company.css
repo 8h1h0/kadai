@@ -1,0 +1,92 @@
+.company-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: space-between;
+    background-image: url(../img/bg-circle.png);
+    width: 95%;
+    margin: 0px auto;
+}
+
+.container-top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.img1 {
+    width: 20%;
+}
+.company-detail-big {
+    width: 60%;
+}
+.img2 {
+    width: 20%;
+}
+
+.container-bottom {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.img3 {
+    width: 30%;
+    text-align: right;
+}
+.img4 {
+    width: 30%;
+}
+.company-detail-small {
+    width: 40%;
+}
+
+.company-txt {
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+}
+.ceo-img {
+    width: 40%;
+    margin-right: 20px;
+}
+.ceo-txt {
+    width: 60%;
+    margin-right: 20px;
+}
+
+.company-detail {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+    padding: 0px;
+    margin-bottom: 30px;
+}
+.company-detail li {
+    font-size: 1.3rem;
+    text-align: left;
+    border-bottom: solid 2px #ddd;
+    padding: 20px;
+
+}
+.company-label {
+    width: 25%;
+}
+.detail {
+    width: 66%;
+}
+
+input[name="name"] {
+    max-width: 200px;
+}
+
+#contact > .detail {
+    text-align: center;
+}
+
+
+/*-----------------------------------
+SP
+-----------------------------------*/
+@media screen and (max-width: 780px) {
+
+}

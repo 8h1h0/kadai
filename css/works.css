@@ -1,0 +1,15 @@
+.works-detail {
+    display: flex;
+    flex-wrap: wrap;
+    margin-bottom: 100px;
+}
+
+.no1, .no2, .no3, .no4, .no5 {
+    width: 30%;
+    margin: 10px 10px;
+}
+
+.no1, .no2, .no3, .no4, .no5 p {
+    color: #aaa;
+    text-align: center;
+}
